@@ -9,7 +9,10 @@ enabled = true # false
 # name = "./.../../icon_path"
 [Technical Skills]
 python = "./config/assets/icons/python.svg"
+office = ""
+excel = ""
 pandas = "./config/assets/icons/pandas.svg"
+postgree = ""
 ai = "./config/assets/icons/ai.svg"
 jupyter = "./config/assets/icons/jupyter.svg"
 linux = "./config/assets/icons/linux.svg"
