@@ -1,4 +1,4 @@
-############### Section config ##################
+e############### Section config ##################
 #################################################
 title = "Tech Experience"
 enabled = true # false
@@ -10,16 +10,16 @@ enabled = true # false
 [Technical Skills]
 python = "./config/assets/icons/python.svg"
 office = "./config/assets/icons/microsoft365.png"
-excel = "./config/assets/icons/"
+excel = "./config/assets/icons/excel.png"
 pandas = "./config/assets/icons/pandas.svg"
-postgree = "./config/assets/icons/"
+postgree = "./config/assets/icons/postgree.png"
 ai = "./config/assets/icons/ai.svg"
 jupyter = "./config/assets/icons/jupyter.svg"
 linux = "./config/assets/icons/linux.svg"
-Google_Analytics = "./config/assets/icons/"
-Google_Tag_Manager = "./config/assets/icons/"
-Zoho_One = "./config/assets/icons/"
-WordPress = "./config/assets/icons/"
+Google_Analytics = "./config/assets/icons/google-analytics.svg"
+Google_Tag_Manager = "./config/assets/icons/google-tag-manager.svg"
+Zoho_One = "./config/assets/icons/zoho.png"
+WordPress = "./config/assets/icons/wordpress.png"
 Mailchimp = "./config/assets/icons/"
 Zapier = "./config/assets/icons/"
 Make = "./config/assets/icons/"
