@@ -1,37 +1,27 @@
 ############## Education config #################
 #################################################
 [[education]]
-title = "High school of art and design"
-timeline = "2002 — 2004"
-description = "Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos."
+title = "IE BUSINESS SCHOOL"
+timeline = "SEP.2023 – JUL.2024 (Expected)"
+description = "MBA, Master in Digital Business & Innovation. Business Intelligence and Data Analytics track. Currently top 5% best students of my Master’s promotion."
 
 [[education]]
-title = "New york academy of art"
-timeline = "2006 — 2007"
-description = "Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis.."
-
-[[education]]
-title = "University school of the arts"
-timeline = "2007 — 2008"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "UNIVERSIDAD AUTÓNOMA DE MADRID"
+timeline = "SEP.2016 – JUL.2020"
+description = "B. Sc. Psychology. Statistics and data analysis for science research. Specialized in Behavioral Economics and Social Psychology."
 
 
 ############## Experience config ################
 #################################################
 [[experience]]
-title = "Web designer"
-timeline = "2010 — 2013"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "FULNESS SPA (WELLNESS)"
+timeline = "JAN.2021 – JUL.2022"
+description = "Operations Specialist. Led digital transformation initiatives, optimizing sales and marketing processes through automation and CRM implementation. Streamlined recruitment processes, reducing time-to-hire and enhancing hiring efficiency through automated screening tools and standardized protocols. Managed e-commerce operations, driving a 53% increase in online sales revenue within the first year through the automation of sales processes and improved customer relationship management practices."
 
 [[experience]]
-title = "Art director"
-timeline = "2013 — 2015"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
-
-[[experience]]
-title = "Creative director"
-timeline = "2015 — Present"
-description = "Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur."
+title = "URSULA CALVO GLOBAL, S.L. (WELLNESS)"
+timeline = "JUN.2019 – APR.2021"
+description = "Martech Manager. Developed and executed comprehensive multichannel digital marketing strategies, resulting in a 40% increase in brand visibility and a 30% boost in customer engagement, as measured by Google Analytics and Google Ads performance metrics. Managed the lifecycle of +4 digital products from conception to market launch. Led social media management initiatives that grew the community by over 50,000 members, improving social engagement rates by 60% through targeted content strategies using Meta Business Suite and Hootsuite. Developed targeted marketing campaigns, including email, social media ads, and content marketing, which resulted in a 45% increase in lead generation and a 18% uplift in conversion rates, utilizing martech tools. Conceptualized and implemented e-commerce and e-learning platforms, expanding digital presence and driving over 50% growth in online sales."
 
 
 ############## Skills config ####################
@@ -43,20 +33,53 @@ show_bar = true
 show_value = true
 
 [[skill]]
-title = "Web design"
-value = "80%"
-
-[[skill]]
-title = "Graphic design"
-value = "70%"
-
-[[skill]]
-title = "Branding"
+title = "Marketing Strategy"
 value = "90%"
 
 [[skill]]
-title = "WordPress"
-value = "50%"
+title = "Social Media Management"
+value = "85%"
+
+[[skill]]
+title = "Content Creation"
+value = "90%"
+
+[[skill]]
+title = "Campaign Optimization"
+value = "90%"
+
+[[skill]]
+title = "Strategic Planning"
+value = "90%"
+
+[[skill]]
+title = "Stakeholder Engagement"
+value = "85%"
+
+[[skill]]
+title = "Risk Assessment"
+value = "80%"
+
+[[skill]]
+title = "Problem-Solving"
+value = "90%"
+
+[[skill]]
+title = "Business Statistics"
+value = "85%"
+
+[[skill]]
+title = "Analytics Skills"
+value = "90%"
+
+[[skill]]
+title = "Business Intelligence"
+value = "85%"
+
+[[skill]]
+title = "Web design"
+value = "90%"
+
 
 ############## Language config ##################
 #################################################
@@ -67,9 +90,13 @@ show_bar = true
 show_value = true
 
 [[language]]
-title = "Ingles"
-value = "60%"
+title = "Spanish"
+value = "100%"
+
+[[language]]
+title = "English"
+value = "100%"
 
 [[language]]
 title = "French"
-value = "50%"
+value = "40%"
