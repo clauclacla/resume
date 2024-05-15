@@ -6,6 +6,11 @@ enabled = true # false
 ################ Skills #########################
 #################################################
 [[skills]]
+title = "Analytical Skills"
+icon = "./config/assets/icons/bolt.svg"
+text = "I have analytical skills to correctly identify business problems, key processes involved and potential solutions"
+
+[[skills]]
 title = "Fast Learner"
 icon = "./config/assets/icons/bolt.svg"
 text = "I have the ability to quickly acquire new knowledge and adapt to changing technological environments."
