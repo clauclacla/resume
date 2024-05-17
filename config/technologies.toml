@@ -7,7 +7,7 @@ enabled = true # false
 #################################################
 # Technology I have worked with
 # name = "./.../../icon_path"
-["Technical Skills"]
+[technologies]
 python = "./config/assets/icons/python.svg"
 office = "./config/assets/icons/microsoft365.png"
 excel = "./config/assets/icons/excel.png"
